@@ -1,0 +1,31 @@
+h1{
+  font-size: 100px;
+  color: khaki;
+  background-image: url(/Users/prachi.wadekar/dev/projects/dasmoto/resources/pattern.jpeg);
+  text-align: center;
+}
+#brush {
+  background-color: MediumSpringGreen;
+  color: white;
+    font-size: 32px;
+}
+#frame{
+  background-color: lightCoral;
+  color: white;
+    font-size: 32px;
+}
+#paint{
+  background-color: SkyBlue;
+  color: white;
+    font-size: 32px;
+}
+.blue {
+  color: blue;
+}
+p{
+  color: black;
+  font-size: 16px;
+}
+* {
+  font-family: Helvetica;
+}
